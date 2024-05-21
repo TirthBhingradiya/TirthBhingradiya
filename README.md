@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tirth Bhingradiya</h1>
 <h3 align="center">I am passionate about learning new technologies and enhancing my web development skills. I am eager to take on a dynamic role as a MERN Stack developer, commited to elevating organization achievements.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthbhingradiya" alt="tirthbhingradiya" /></a> </p>
+
 
 - 🔭 I’m currently work on [StudyNotation (Ed-tech)](https://studynotion-frontend.vercel.app/login)
 
